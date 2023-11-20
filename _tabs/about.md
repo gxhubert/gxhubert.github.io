@@ -7,6 +7,4 @@ order: 4
 > Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
 {: .prompt-tip }
 
-HI, every one, here is hubert wang
-
-Min yi is a lovely and beautiful girl
+HI, every one, here is hubert wang,Min yi is a lovely and beautiful girl !!!
