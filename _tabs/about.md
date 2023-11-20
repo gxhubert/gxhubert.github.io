@@ -8,3 +8,5 @@ order: 4
 {: .prompt-tip }
 
 HI, every one, here is hubert wang
+
+Min yi is a lovely and beautiful girl
